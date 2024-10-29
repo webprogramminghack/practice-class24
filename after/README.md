@@ -32,5 +32,5 @@ The API has the following endpoints:
 
 1. Configure the Router and define Routes
 2. Create Nav and handle navigation
-3. Handle 404 page and error
-4. Create search bar to find single todo
+3. Get data dynamically and create Nested Routes
+4. Handle 404 page and add setTimeout
